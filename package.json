@@ -1,7 +1,3 @@
-
-
-
-
 {
   "name": "readme-generator",
   "version": "1.0.0",
@@ -13,6 +9,6 @@
   "author": "Christian Casillas",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.2"
+    "inquirer": "^8.2.4"
   }
 }
